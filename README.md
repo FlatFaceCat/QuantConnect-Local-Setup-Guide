@@ -5,6 +5,7 @@ This guide was created for personal use as a reminder on how to set up QuantConn
 If any steps do not work, or do not make sense, please reach out or comment so I can update for future use. 
 
 Version 1 = 09/29/2023 = Initial release
+Version 2 = 09/29/2023 = Removed personal details 
 
 -----------------
 
@@ -81,8 +82,7 @@ Create a new lean project in this location using the "LEAN Commands:
 ```
 lean create-project quant-test
 ```
-
-![image](https://github.com/FlatFaceCat/QuantConnect-Local-Setup-Guide/assets/80037958/5ee74908-79f1-4e62-8da5-e2aa886ed1bf)
+![image](https://github.com/FlatFaceCat/QuantConnect-Local-Setup-Guide/assets/80037958/c08fb07f-b52b-4911-add9-f19eca0b3be8)
 
 Open "VS Code" and open the newly created folder. You will see that a "main.py" file is automatically created. 
 Make sure that the created ENV is the standard interpretor for the project 
