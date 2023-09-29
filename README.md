@@ -1,11 +1,11 @@
 # QuantConnect-Local-Setup-Guide
-Guide on setting up Quant Connect locally 
-PLEASE NOTE:
-This guide was created for personal use as a reminder on how to set up QuantConnect to run locally VS hosted on the cloud. 
-If any steps do not work, or do not make sense, please reach out or comment so I can update for future use. 
+Guide on setting up Quant Connect locally \
+PLEASE NOTE: \
+This guide was created for personal use as a reminder on how to set up QuantConnect to run locally VS hosted on the cloud. \
+If any steps do not work, or do not make sense, please reach out or comment so I can update for future use. \
 
-Version 1 = 09/29/2023 = Initial release
-Version 2 = 09/29/2023 = Removed personal details 
+Version 1 = 09/29/2023 = Initial release \
+Version 2 = 09/29/2023 = Removed personal details \
 
 -----------------
 
